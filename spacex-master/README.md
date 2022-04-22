@@ -25,9 +25,3 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-la
 > After Applying Successful Launch Filter
 
 ![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1272__IQT1rCmyt.png)
-
-> After Applying Launch Year, Successful Launch and Landing Success Filter
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
-
-Developed By [Jasvinder Singh Sabharwal](https://github.com/jvsinghk), [Jennifer B](https://github.com/jenndroid)
